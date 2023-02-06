@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shayri_react/static/css/main.596461b9.css",
+    "main.js": "/shayri_react/static/js/main.218cebd6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shayri_react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/mirza.png": "/shayri_react/static/media/mirza.44080e4f397418df61f1.png",
+    "static/media/mohsin.png": "/shayri_react/static/media/mohsin.c4315dad7133351db7ff.png",
+    "static/media/jaun.png": "/shayri_react/static/media/jaun.0bc7579ca6a8317bde76.png",
+    "static/media/Nusrat.png": "/shayri_react/static/media/Nusrat.3e538bfc3d8a295e6113.png",
+    "static/media/Sher.png": "/shayri_react/static/media/Sher.5310019461258b4f1cf8.png",
+    "static/media/Coke.png": "/shayri_react/static/media/Coke.0e71ce5626067267caf3.png",
+    "index.html": "/shayri_react/index.html",
+    "main.596461b9.css.map": "/shayri_react/static/css/main.596461b9.css.map",
+    "main.218cebd6.js.map": "/shayri_react/static/js/main.218cebd6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shayri_react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596461b9.css",
+    "static/js/main.218cebd6.js"
+  ]
+}
